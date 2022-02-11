@@ -1,5 +1,5 @@
 ---
-description: "Нас поддерживают"
+description: ""
 ---
 * [команда](team.md)
 * [проекты](projects.md)
