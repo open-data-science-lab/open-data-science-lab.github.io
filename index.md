@@ -1,4 +1,3 @@
-# OpenDataScience Lab
 * [команда](team.md)
 * [проекты](projects.md)
 * [помещение](place.md)
