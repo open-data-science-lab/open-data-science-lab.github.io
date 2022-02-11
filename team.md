@@ -1,6 +1,6 @@
-{% include_relative header.md %}
-
-Команда, в алфавитном порядке:
+---
+description: "Команда"
+---
 
 * Георгий Шушуев (Align Technology)
 * Дмитрий Колодезев (Промсофт)

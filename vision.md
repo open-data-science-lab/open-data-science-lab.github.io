@@ -1,3 +1,3 @@
-{% include_relative header.md %}
-
-Общая идея:
+---
+description: "Общая идея"
+---
