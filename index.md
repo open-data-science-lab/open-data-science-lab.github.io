@@ -1,5 +1,1 @@
-* [команда](team.md)
-* [проекты](projects.md)
-* [помещение](place.md)
-* [нас поддерживают](benefactors.md)
-* [общая идея](vision.md)
+{% include_relative header.md %}
