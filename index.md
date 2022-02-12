@@ -1,3 +1,6 @@
+---
+description: Главная
+---
 * [команда](team.md)
 * [проекты](projects.md)
 * [помещение](place.md)
