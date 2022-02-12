@@ -7,3 +7,4 @@ description: Главная
 * [ресурсы](resources.md)
 * [нас поддерживают](benefactors.md)
 * [общая идея](vision.md)
+* [рабочие контакты](contacts.md)
