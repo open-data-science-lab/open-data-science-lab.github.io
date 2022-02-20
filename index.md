@@ -1,7 +1,7 @@
 ---
 description: Главная
 ---
-* [календарь](schedule.md)
+* [новости и календарь](schedule.md)
 * [команда](team.md)
 * [проекты](projects.md)
 * [помещение](place.md)
