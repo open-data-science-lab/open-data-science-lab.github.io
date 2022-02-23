@@ -3,6 +3,7 @@ title: OpenDataScience Lab
 
 show_excerpts: true
 timezone: Asia/Novosibirsk
+excerpt_separator: <!--more-->
 
 minima:
   date_format: "%Y-%m-%d"
