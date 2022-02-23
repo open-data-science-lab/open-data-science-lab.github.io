@@ -2,6 +2,7 @@
 permalink: /
 layout: home
 description: Главная
+list_title: Новости
 ---
 * [новости и календарь](schedule.md)
 * [команда](team.md)
