@@ -4,7 +4,7 @@ layout: home
 description: Главная
 list_title: Новости
 ---
-* [новости и календарь](schedule.md)
+* [календарь активностей](schedule.md)
 * [команда](team.md)
 * [проекты](projects.md)
 * [помещение](place.md)
