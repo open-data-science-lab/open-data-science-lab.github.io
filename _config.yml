@@ -2,6 +2,7 @@ theme: minima
 title: OpenDataScience Lab
 
 show_excerpts: true
+timezone: Asia/Novosibirsk
 
 minima:
   date_format: "%Y-%m-%d"
