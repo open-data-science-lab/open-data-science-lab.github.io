@@ -1,4 +1,6 @@
 ---
+permalink: /
+layout: home
 description: Главная
 ---
 * [новости и календарь](schedule.md)
