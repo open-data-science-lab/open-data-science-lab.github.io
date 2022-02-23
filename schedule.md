@@ -6,7 +6,7 @@ description: Календарь
 * **24 февраля, четверг, 19:00 НСК, Институт математики**
   * Проект "Board Game Assistant" расскажет о своих текущих успехах: ребята очень продуктивно поработали на CompTech2022, заняли там призовое место и планируют продолжать развивать проект в ODS Lab'е⭐
 
-    🔥Небольшое видео в качестве тизера: https://youtu.be/-TE2cudI-aM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-TE2cudI-aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     📱Cсылка на telegram-бот: https://t.me/BoardGameAssistantBot
 
