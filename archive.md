@@ -1,10 +1,8 @@
 ---
 permalink: /archive
 layout: page
-title: Новости
+title: Архив новостей
 ---
-
-
 <ul>
   {% for post in site.posts %}
     <li>
