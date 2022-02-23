@@ -1,2 +1,14 @@
 theme: minima
 title: OpenDataScience Lab
+
+include:
+    - _pages
+    - .
+
+minima:
+  date_format: "%Y-%m-%d"
+
+
+exclude:
+    - .gitignore
+    - README.md
