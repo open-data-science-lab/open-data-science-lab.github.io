@@ -4,7 +4,7 @@ date: 2022-02-24
 layout: post
 ---
 
-[Презентация проекта Covid Causal Inference](https://youtu.be/yHhOH6hrx1M)
+[Презентация проекта Covid Causal Inference](https://youtu.be/OWomA-7Al74)
 
 Можем ли мы на открытых данных доказать пользу вакцинирования? Что современная эконометрика и Causal Inference может противопоставить антиваксерам? Есть ли эффект? Каков он? Где правда?
 <!--more-->
@@ -14,4 +14,4 @@ layout: post
 
 Заявку на участие в проекте подавать [тут](https://forms.gle/ATNPdVGbBVn1ggcB7).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yHhOH6hrx1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OWomA-7Al74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
