@@ -1,6 +1,6 @@
 ---
 title: "Board Game Assistant, Covid Causal Inference, Pytest и все-все-все"
-date: 2022-03-16
+date: 2022-03-10
 layout: post
 ---
 
