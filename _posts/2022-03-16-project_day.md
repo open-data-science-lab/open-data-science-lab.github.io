@@ -1,5 +1,5 @@
 ---
-title: "Board Game Assistant, Covid Causal Inference, Pytest и все-все-все"
+title: "Первый "Проектный день" в ODS Lab'е"
 date: 2022-03-10
 layout: post
 ---
