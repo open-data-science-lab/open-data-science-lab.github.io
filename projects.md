@@ -27,6 +27,7 @@ description: Проекты
 
 * **Пшеница**
   * Куратор: Лев Максимов
+  * Ссылки: [google docs](https://docs.google.com/document/d/1BCveZuYxxQNBRDB09I3sZ7Fy2ZiAEkZaWDZQqZvsKQk/edit)
 
 * **Прикладной Causal Inference: анализ эффективности вакцинации от covid на основе открытых данных**
   * Куратор: Иван Комаров 
