@@ -5,5 +5,6 @@ description: Нас поддерживают
 
 ---
 
-* [Математический центр](https://www.nsu.ru/n/mca/)
 * [Сообщество ODS.AI](https://ods.ai/hubs/ods-lab)
+* [Математический центр](https://www.nsu.ru/n/mca/)
+
