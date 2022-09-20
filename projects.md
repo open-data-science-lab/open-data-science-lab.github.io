@@ -35,10 +35,10 @@ description: Проекты
 
 **ПЕРВЫЙ СЕЗОН: ПРОШЛЫЕ ПРОЕКТЫ**
 
- №1.1 | Board Games Assistant 
- --- | --- 
- Куратор | Георгий Шушуев
- Ссылки | [telegram-bot](https://t.me/BoardGameAssistantBot), [тизер](https://youtu.be/-TE2cudI-aM)
+№1.1 | Board Games Assistant 
+--- | --- 
+Куратор | Георгий Шушуев
+Ссылки | [telegram-bot](https://t.me/BoardGameAssistantBot), [тизер](https://youtu.be/-TE2cudI-aM)
 
 №1.2 | Анализ растительности с дронов 
 --- | --- 
@@ -54,7 +54,7 @@ description: Проекты
 --- | --- 
 Куратор | Дмитрий Колодезев
 Команда | Никита Радеев, Илона Ковалёва, Олег Седухин, Глеб Соснин
-Ссылки: [github](https://github.com/open-data-science-lab/neurotrees)
+Ссылки | [github](https://github.com/open-data-science-lab/neurotrees)
 
 №1.5 | Открытый программный комплекс для подбора параметров эпидемиологических моделей с помощью байесовского вывода на вероятностных графах
 --- | --- 
