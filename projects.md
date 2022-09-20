@@ -2,18 +2,19 @@
 description: Проекты
 ---
 
-# Как подать свой проект или идею? 
+## Как подать свой проект или идею? 
 - можно заполнить [форму](https://forms.gle/H13Fav7McMnL7oK88)
 - или просто написать [Евгении](https://t.me/evsotnikova)
 - а ешё можно написать сразу в чат :)
 
-# ВТОРОЙ СЕЗОН: открыт набор в проекты
-## Pixel-Wise Embedding
+
+## ВТОРОЙ СЕЗОН: открыт набор в проекты
+### Pixel-Wise Embedding
   * Куратор: Александр Ромахин, Computer Vision Team Lead в компании ЕВРАЗ
   * Ссылки: [страничка проекта](projects/pixelwiseemb.md), [презентация проекта](https://docs.google.com/presentation/d/1IopWWRSgE1p5IqQ6hsQ7Cg6RaduEW_UJFlEfOeZWWaA/edit?usp=sharing)
   * Записаться в проект: написать в личку [Александру](https://t.me/ASRomahin) или [Евгении](https://t.me/evsotnikova). Либо можно просто в чат написать :)
 
-## Пшеница 2.0
+### Пшеница 2.0
   * Куратор: Лев Максимов
   * Ссылки: [страничка проекта](projects/wheat.md), [презентация проекта](https://docs.google.com/presentation/d/1Ksq48RCX6Bh7EqvyP4rI2DeR335Y_myq37bWRuszXdM/edit#slide=id.g15435ce8eb0_1_279)
   * Записаться в проект: написать в личку [Льву](https://t.me/grimoire2020) или [Евгении](https://t.me/evsotnikova). Либо можно просто в чат написать :)
@@ -21,7 +22,7 @@ description: Проекты
 ### ...будут и другие проекты, не переживайте :)
 
 
-# ПЕРВЫЙ СЕЗОН: ПРОШЛЫЕ ПРОЕКТЫ
+## ПЕРВЫЙ СЕЗОН: ПРОШЛЫЕ ПРОЕКТЫ
 
 ### Board Games Assistant
   * Куратор: Георгий Шушуев
