@@ -8,7 +8,7 @@ list_title: Новости
 * [проекты](projects.md)
 * [образовательные активности](edu.md)
 * [ресурсы](resources.md)
-* [нас поддерживают](benefactors.md)
 * [общая идея](vision.md)
 * [рабочие контакты](contacts.md)
 * [канал на youtube](https://www.youtube.com/channel/UCtdvwajVaaKMgv_nrL6vnFw)
+* [нас поддерживают](benefactors.md)
