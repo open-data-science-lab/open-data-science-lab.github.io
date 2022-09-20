@@ -1,4 +1,4 @@
-**ПРОЕКТ: PIXEL-WISE-EMBEDDING** 
+**ПРОЕКТ: PIXEL-WISE-EMBEDDING** ([презентация]()) 
 
 //**ОТКРЫТ НАБОР:** для записи в проект, пишите [Александру](https://t.me/ASRomahin) или [Евгении](https://t.me/evsotnikova)//
 
