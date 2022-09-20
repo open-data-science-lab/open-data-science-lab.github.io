@@ -2,16 +2,16 @@
 description: Проекты
 ---
 
-**Второй сезон: ОТКРЫТ НАБОР в проекты**
+**ВТОРОЙ СЕЗОН: ОТКРЫТ НАБОР в проекты**
 * **Pixel-Wise Embedding**
   * Куратор: Александр Ромахин, Computer Vision Team Lead в компании ЕВРАЗ
-  * Ссылки: [страничка проекта](projects/pixelwiseemb.md)
+  * Ссылки: [страничка проекта](projects/pixelwiseemb.md), [презентация проекта](https://docs.google.com/presentation/d/1IopWWRSgE1p5IqQ6hsQ7Cg6RaduEW_UJFlEfOeZWWaA/edit?usp=sharing)
 
 * **Пшеница 2.0**
   * Куратор: Лев Максимов
-  * Ссылки: [презентация проекта]()
+  * Ссылки: [страничка проекта](projects/wheat.md), [презентация проекта](https://docs.google.com/presentation/d/1Ksq48RCX6Bh7EqvyP4rI2DeR335Y_myq37bWRuszXdM/edit#slide=id.g15435ce8eb0_1_279)
 
-**Проекты первого сезона**
+**ПЕРВЫЙ СЕЗОН: ПРОШЛЫЕ ПРОЕКТЫ**
 
 * **Board Games Assistant**
   * Куратор: Георгий Шушуев
